@@ -97,10 +97,15 @@ section#about img {
 
 section#about h3 {
   margin-top: 10rem;
-  font-size: 15rem;
+  font-size: 6rem;
 }
 
 section#about img {margin-bottom: 5rem ;}
+
+section#about p {
+	font-size: 6rem;
+}
+
 
 /********************************* EDUCATION *****************/
 
