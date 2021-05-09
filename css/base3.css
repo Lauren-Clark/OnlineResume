@@ -70,6 +70,10 @@ section#intro-header h2 {
   font-size: 3rem;
 }
 
+section#intro-header li {
+	font-size: 3rem;
+}
+
 section#intro-header hr {
   width: 10%;
 }
