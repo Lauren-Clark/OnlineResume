@@ -63,11 +63,11 @@ section#intro-header h2 {
 }
 
 section#intro-header h1 {
-	font-size: 10px;
+	font-size: 4rem;
 }
 
 section#intro-header h2 {
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
 section#intro-header hr {
@@ -97,7 +97,7 @@ section#about img {
 
 section#about h3 {
   margin-top: 10rem;
-  font-size: 6rem;
+  font-size: 2rem;
 }
 
 section#about img {margin-bottom: 5rem ;}
