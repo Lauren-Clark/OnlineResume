@@ -74,6 +74,10 @@ section#intro-header li {
 	font-size: 3rem;
 }
 
+section#intro-header ul {
+	font-size: 3rem;
+}
+
 section#intro-header hr {
   width: 10%;
 }
