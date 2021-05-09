@@ -92,10 +92,12 @@ section#intro-header .btn-default {
 section#about img {
   margin-top: 6.5rem;
   margin-bottom: 5rem;
+  font-size: 15rem;
 }
 
 section#about h3 {
   margin-top: 10rem;
+  font-size: 15rem;
 }
 
 section#about img {margin-bottom: 5rem ;}
@@ -107,7 +109,7 @@ section#education .table th {font-size: 1.7rem;}
 
 section#education .table td {font-size: 1.7rem;} */
 
-
+section#education {font-size:2rem;}
 
 
 /*********************** SKILLS(FEATURES) ****************** */
