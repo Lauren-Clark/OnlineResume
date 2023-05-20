@@ -48,8 +48,8 @@ body {
 section#intro-header {
   background-image: url(../images/background4.jpg);
   background-size: cover;
-	padding-top: 200px;
-	padding-bottom: 200px;
+  height: 800px;
+width: 400px;
 }
 
 section#intro-header .wrap-headline {
