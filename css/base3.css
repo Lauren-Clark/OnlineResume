@@ -46,10 +46,10 @@ body {
 /****************************************** header **********************/
 
 section#intro-header {
-  background-image: url(../images/background4.jpg);
+  background-image: url(../images/bannr-good.jpg);
   background-size: cover;
-  height: 800px;
-width: 400px;
+	width: 100%;
+	height: 100%;
 }
 
 section#intro-header .wrap-headline {
